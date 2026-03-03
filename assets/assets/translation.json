@@ -328,7 +328,8 @@
     "coverage-radius": "Coverage Radius",
     "partners": "Partners",
     "partner-types": "Partner Types",
-    "PartnterType": "Partner Type ID"
+    "PartnterType": "Partner Type ID",
+    "maintainence": "Maintenance"
   },
   "ar": {
     "language_iso": "ar",
@@ -667,6 +668,7 @@
     "coverage-radius": "نطاق التغطية",
     "partners": "الشركاء",
     "partner-types": "أنواع الشركاء",
-    "PartnterType": "كود نوع الشريك"
+    "PartnterType": "كود نوع الشريك",
+    "maintainence": "الصيانة"
   }
 }
