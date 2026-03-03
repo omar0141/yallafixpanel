@@ -326,7 +326,9 @@
     "longitude-range-error": "Longitude must be between -180 and 180",
     "distance-km": "Distance",
     "coverage-radius": "Coverage Radius",
-    "partners": "Partners"
+    "partners": "Partners",
+    "partner-types": "Partner Types",
+    "PartnterType": "Partner Type ID"
   },
   "ar": {
     "language_iso": "ar",
@@ -663,6 +665,8 @@
     "longitude-range-error": "يجب أن يكون خط الطول بين -180 و 180",
     "distance-km": "المسافة",
     "coverage-radius": "نطاق التغطية",
-    "partners": "الشركاء"
+    "partners": "الشركاء",
+    "partner-types": "أنواع الشركاء",
+    "PartnterType": "كود نوع الشريك"
   }
 }
