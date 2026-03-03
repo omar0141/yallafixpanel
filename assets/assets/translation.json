@@ -329,7 +329,8 @@
     "partners": "Partners",
     "partner-types": "Partner Types",
     "PartnterType": "Partner Type ID",
-    "maintainence": "Maintenance"
+    "maintainence": "Maintenance",
+    "refresh": "Refresh"
   },
   "ar": {
     "language_iso": "ar",
@@ -669,6 +670,7 @@
     "partners": "الشركاء",
     "partner-types": "أنواع الشركاء",
     "PartnterType": "كود نوع الشريك",
-    "maintainence": "الصيانة"
+    "maintainence": "الصيانة",
+    "refresh": "تحديث"
   }
 }
