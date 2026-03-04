@@ -53,7 +53,7 @@
     "canceled": "Your changes have been canceled successfully",
     "delete": "Delete",
     "are-you-sure-product-delete": "Are you sure from deleting product ",
-    "are-you-sure-cancel": "Are you sure ? \n You will lost your changes",
+    "are-you-sure-cancel": "Are you sure ? \nYou will lost your changes",
     "ok": "Ok",
     "warnig": "Warning",
     "groups": "Categories",
@@ -330,7 +330,9 @@
     "partner-types": "Partner Types",
     "PartnterType": "Partner Type ID",
     "maintainence": "Maintenance",
-    "refresh": "Refresh"
+    "refresh": "Refresh",
+    "distance-slider": "Coverage Distance",
+    "select-map-location": "Pick Location"
   },
   "ar": {
     "language_iso": "ar",
@@ -386,7 +388,7 @@
     "canceled": "تم إلغاء تعديلاتك بنجاح",
     "delete": "حذف",
     "are-you-sure-product-delete": "هل أنت متأكد من حذف الصنف ",
-    "are-you-sure-cancel": "هل أنت متأكد؟ \n لن يتم حفظ تعديلاتك",
+    "are-you-sure-cancel": "هل أنت متأكد؟ \nلن يتم حفظ تعديلاتك",
     "ok": "حسنا",
     "warnig": "تحذير",
     "groups": "السنوات الدراسية",
@@ -671,6 +673,8 @@
     "partner-types": "أنواع الشركاء",
     "PartnterType": "كود نوع الشريك",
     "maintainence": "الصيانة",
-    "refresh": "تحديث"
+    "refresh": "تحديث",
+    "distance-slider": "مسافة التغطية",
+    "select-map-location": "اختر الموقع"
   }
 }
