@@ -332,7 +332,9 @@
     "maintainence": "Maintenance",
     "refresh": "Refresh",
     "distance-slider": "Coverage Distance",
-    "select-map-location": "Pick Location"
+    "select-map-location": "Pick Location",
+    "tap-to-change-location": "Tap to Change location",
+    "confirm-location": "Confirm Location"
   },
   "ar": {
     "language_iso": "ar",
@@ -675,6 +677,8 @@
     "maintainence": "الصيانة",
     "refresh": "تحديث",
     "distance-slider": "مسافة التغطية",
-    "select-map-location": "اختر الموقع"
+    "select-map-location": "اختر الموقع",
+    "tap-to-change-location": "اضغط لتغيير الموقع",
+    "confirm-location": "تأكيد الموقع"
   }
 }
