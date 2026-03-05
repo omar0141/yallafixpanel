@@ -328,13 +328,19 @@
     "coverage-radius": "Coverage Radius",
     "partners": "Partners",
     "partner-types": "Partner Types",
+    "inactive-partner": "Inactive Partner",
+    "reactive-partner": "Reactive Partner",
+    "status-action": "Status Action",
     "PartnterType": "Partner Type ID",
     "maintainence": "Maintenance",
     "refresh": "Refresh",
     "distance-slider": "Coverage Distance",
     "select-map-location": "Pick Location",
     "tap-to-change-location": "Tap to Change location",
-    "confirm-location": "Confirm Location"
+    "confirm-location": "Confirm Location",
+    "map": "Map",
+    "address": "Address",
+    "last_maintenance": "Last Maintenance"
   },
   "ar": {
     "language_iso": "ar",
@@ -673,12 +679,18 @@
     "coverage-radius": "نطاق التغطية",
     "partners": "الشركاء",
     "partner-types": "أنواع الشركاء",
+    "inactive-partner": "تعطيل الشريك",
+    "reactive-partner": "تفعيل الشريك",
+    "status-action": "تغيير الحالة",
     "PartnterType": "كود نوع الشريك",
     "maintainence": "الصيانة",
     "refresh": "تحديث",
     "distance-slider": "مسافة التغطية",
     "select-map-location": "اختر الموقع",
     "tap-to-change-location": "اضغط لتغيير الموقع",
-    "confirm-location": "تأكيد الموقع"
+    "confirm-location": "تأكيد الموقع",
+    "map": "الخريطة",
+    "address": "العنوان",
+    "last_maintenance": "آخر صيانة"
   }
 }
