@@ -696,6 +696,7 @@
     "address": "العنوان",
     "last_maintenance": "آخر صيانة",
     "inactive": "تعطيل",
-    "reactive": "تفعيل"
+    "reactive": "تفعيل",
+    "TypeName": "اسم النوع"
   }
 }
