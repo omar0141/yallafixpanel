@@ -340,7 +340,10 @@
     "confirm-location": "Confirm Location",
     "map": "Map",
     "address": "Address",
-    "last_maintenance": "Last Maintenance"
+    "last_maintenance": "Last Maintenance",
+    "inactive": "Inactive",
+    "reactive": "Reactive",
+    "TypeName": "Type Name"
   },
   "ar": {
     "language_iso": "ar",
@@ -691,6 +694,8 @@
     "confirm-location": "تأكيد الموقع",
     "map": "الخريطة",
     "address": "العنوان",
-    "last_maintenance": "آخر صيانة"
+    "last_maintenance": "آخر صيانة",
+    "inactive": "تعطيل",
+    "reactive": "تفعيل"
   }
 }
