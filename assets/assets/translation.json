@@ -344,7 +344,9 @@
     "last_maintenance": "Last Maintenance",
     "inactive": "Inactive",
     "reactive": "Reactive",
-    "TypeName": "Type Name"
+    "TypeName": "Type Name",
+    "partner-type": "Partner Type",
+    "partner": "Partner"
   },
   "ar": {
     "language_iso": "ar",
@@ -699,6 +701,8 @@
     "last_maintenance": "آخر صيانة",
     "inactive": "تعطيل",
     "reactive": "تفعيل",
-    "TypeName": "اسم النوع"
+    "TypeName": "اسم النوع",
+    "partner-type": "نوع الشريك",
+    "partner": "الشريك"
   }
 }
